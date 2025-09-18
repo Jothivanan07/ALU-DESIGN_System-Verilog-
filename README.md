@@ -188,7 +188,8 @@ endmodule
 
 The simulation is carried out using ModelSim 2020.1.
 
-<img width="1594" height="850" alt="image" src="https://github.com/user-attachments/assets/eeef3a18-ffda-4984-9b21-32f385cc282f" />
+![WhatsApp Image 2025-09-18 at 10 33 48_56d38722](https://github.com/user-attachments/assets/c6f74b14-3770-4f7c-a4c7-a829cce79752)
+
 
 
 ---
